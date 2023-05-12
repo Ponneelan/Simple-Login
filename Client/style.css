@@ -1,0 +1,10 @@
+.main{
+    height: 100vh;
+}
+.title{
+    margin-bottom: 40px;
+}
+
+#message{
+    margin-right: 30px;
+}
